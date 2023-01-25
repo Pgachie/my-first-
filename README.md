@@ -25,6 +25,6 @@ I wil write on the Bioinformatics workshop we have had since January 23-27 Janua
 How can I edit files?
 
 
-#Day Three
+#Day three
 
 **Introduction to Git**
