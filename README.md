@@ -3,7 +3,7 @@ The First Workshop For Biomedical Students held from 23 January 2023 - 27 Januar
 
 #DAY ONE
 **Installation of tools**
-The followinng describes steps you can use to insta;ll required tools for the training
+The followinng describes steps you can use to install required tools for the training
 
 
 Installed:
